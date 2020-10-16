@@ -9,4 +9,5 @@ Me chamo Davi Barbosa , tenho 19 anos e comecei a estudar desenvolvimento web a 
 
 - No momento passo raiva com CSS , JavaScript e HTML ( e o Flamengo 😅)
 
-- Os projetos aqui são básicos e objetos de estudos (por enquanto), então provavelmente você verá erros bobos ( normais de iniciante né ?!😣) 
+- Os projetos aqui são básicos e objetos de estudo (por enquanto), então provavelmente você verá erros bobos ( normais de iniciantes né ?!😣) 
+
