@@ -20,3 +20,8 @@ Não hesite em entrar em contato comigo para trocarmos conhecimentos :mag:
 <a href="https://twitter.com/daviBarbosa2_"><img src="https://github.com/davibarbosa2/davibarbosa2/blob/main/twitter.png" width="16"></img></a> [Twitter](https://twitter.com/daviBarbosa2_)   
 
 <a href="https://www.instagram.com/davibarbosa2/"><img src="https://github.com/davibarbosa2/davibarbosa2/blob/main/instagram-symbol.png" width="16"></img></a> [Instagram](https://www.instagram.com/davibarbosa2/)  
+
+
+---
+
+![](https://komarev.com/ghpvc/?username=davibarbosa2&color=blue&style=flat)
