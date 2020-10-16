@@ -13,7 +13,7 @@ Me chamo Davi Barbosa , tenho 19 anos e comecei a estudar desenvolvimento web a 
 
 - Os projetos aqui são básicos e objetos de estudo (por enquanto), então provavelmente você verá erros bobos ( normais de iniciantes né ?!😣)
 
-- Ah ! E tenho um cachorro salsicha chamado Bob 
+- Ah ! E tenho um cachorro salsicha chamado Bob 🐕  
 
 ---
 
