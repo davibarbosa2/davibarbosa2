@@ -5,7 +5,7 @@
 Me chamo Davi Barbosa , tenho 19 anos e comecei a estudar desenvolvimento web a pouco tempo.
 
 
-- Participo do projeto da ONG Recode, que visa possibilitar às pessoas em situação de vulnerabilidade social, a oportunidade de adquirirem conhecimento e desenvolverem uma carreira profissional na área de tecnologia. Conheça mais do projeto clicando <a href="https://www.recodepro.org.br/o-programa/">aqui</a> .
+- Participo do projeto da ONG Recode, que visa possibilitar às pessoas em situação de vulnerabilidade social, a oportunidade de adquirirem conhecimento e desenvolverem uma carreira profissional na área de tecnologia. Conheça mais do projeto clicando <a href="https://www.recodepro.org.br/o-programa/" target="_blank">aqui</a> .
 
 - No momento passo raiva com CSS , JavaScript e HTML ( e o Flamengo 😅)
 
