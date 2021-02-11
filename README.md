@@ -1,6 +1,6 @@
 <img src ="https://github.com/davibarbosa2/davibarbosa2/blob/main/estudante%20full-stack.gif" width="3000px">
  
-# Whassuppppp 👻?
+# Olá, tudo bem ? :wave:
 
 ## Um pouco sobre mim 😁
 
@@ -11,7 +11,7 @@ Me chamo Davi Barbosa , tenho 19 anos e estou à procura de minha primeira oport
 
 - Conheça mais do projeto clicando <a href="https://www.recodepro.org.br/o-programa/" target="_blank">aqui</a> .
 
-- Durante o curso pude relizar projetos utilizando ReactJS , React Native , Javascript , CSS , SASS , Git , noSQL(mongoDB) , SQL , PHP(básico) e nodeJS.  
+- Durante o curso pude relizar projetos utilizando ReactJS, React Native, Javascript, CSS, SASS, Git , noSQL(mongoDB), SQL, PHP(básico) e nodeJS.  
 
 - Os projetos aqui são objetos de estudo (por enquanto) feitos durante o curso , então provavelmente você verá alguns erros.
 
