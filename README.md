@@ -4,12 +4,14 @@
 
 ## Um pouco sobre mim 😁
 
-Me chamo Davi Barbosa , tenho 19 anos e estou á procura de minha primeira oportunidade na area de Desenvolvimento de Software.
+Me chamo Davi Barbosa , tenho 19 anos e estou à procura de minha primeira oportunidade na área de Desenvolvimento de Software.
 
 
-- Participo do projeto da ONG Recode, que visa possibilitar às pessoas em situação de vulnerabilidade social, a oportunidade de adquirirem conhecimento e desenvolverem uma carreira profissional na área de tecnologia. Conheça mais do projeto clicando <a href="https://www.recodepro.org.br/o-programa/" target="_blank">aqui</a> .
+- Participei do projeto da ONG <a href="https://recode.org.br/" targer="_blank">Recode</a> (RecodePRO) com duração de 6 meses que forma profissionais Full-Stack, visando possibilitar às pessoas em situação de vulnerabilidade social, a oportunidade de adquirirem conhecimento e desenvolverem uma carreira profissional na área de tecnologia.
 
-- Possuo conhecimento em ReactJS, Javascript , CSS , SASS , Git ,  
+- Conheça mais do projeto clicando <a href="https://www.recodepro.org.br/o-programa/" target="_blank">aqui</a> .
+
+- Durante o curso pude relizar projetos utilizando ReactJS , React Native , Javascript , CSS , SASS , Git , noSQL(mongoDB) , SQL , PHP(básico) e nodeJS.  
 
 - Os projetos aqui são objetos de estudo (por enquanto) feitos durante o curso , então provavelmente você verá alguns erros.
 
