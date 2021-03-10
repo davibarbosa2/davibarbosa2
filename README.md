@@ -23,7 +23,13 @@ Não hesite em entrar em contato comigo para trocarmos conhecimentos :mag:
 
 
 
-<a href="https://www.instagram.com/davibarbosa2/"><img src="https://github.com/davibarbosa2/davibarbosa2/blob/main/instagram-symbol.png" width="16"></img></a> [Instagram](https://www.instagram.com/davibarbosa2/)  
+
+<a href="https://www.linkedin.com/in/davibarbosa2">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/davibarbosa2/">
+</a>
+<a href="mailto:davibarbosa019@gmail.com">
+        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:davibarbosa019@gmail.com">
+</a>
 
 
 ---
