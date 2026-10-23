@@ -1,14 +1,14 @@
-# Oi, eu sou o Davi 👋
+# Davi Barbosa
 
-Engenheiro de software full-stack em Niterói, RJ. Hoje construo, na [@zooxsmart-eye](https://github.com/zooxsmart-eye), uma plataforma de dados com agentes de IA: front e BFF em Nuxt, micro-serviços em Python/FastAPI e infraestrutura serverless na AWS.
+Engenheiro de software full-stack em Niterói, RJ. Atualmente na [Zoox Smart](https://github.com/zooxsmart-eye), construindo uma plataforma de dados com agentes de IA: front-end e BFF em Nuxt, microsserviços em Python/FastAPI e infraestrutura serverless na AWS.
 
-**Stack do dia a dia:** Vue 3 · Nuxt · TypeScript · Python · FastAPI · PostgreSQL · AWS (Lambda, SQS) · MCP · LLMs
+**Stack:** Vue, Nuxt, TypeScript, Python, FastAPI, PostgreSQL, AWS (Lambda, SQS), MCP, LLMs
 
-## Projetos em destaque
+## Projetos
 
-- **[blackbox](https://github.com/davibarbosa2/blackbox)**: investiga um incidente de agente de IA comprometido, propõe uma remediação de menor privilégio para aprovação humana e só a considera verificada depois de repetir o ataque e ver o bloqueio.
-- **[claude-impact-rio](https://github.com/davibarbosa2/claude-impact-rio)**: protótipo mobile-first, feito em hackathon com a Secretaria Municipal de Educação do Rio, para simplificar a inscrição em creches.
+- [blackbox](https://github.com/davibarbosa2/blackbox): investigação de incidentes com agentes de IA comprometidos, com remediação de menor privilégio aprovada por humano e verificada pela repetição do ataque.
+- [claude-impact-rio](https://github.com/davibarbosa2/claude-impact-rio): protótipo mobile-first, criado em hackathon com a Secretaria Municipal de Educação do Rio, para simplificar a inscrição em creches.
 
 ## Contato
 
-📫 davibarbosa019@gmail.com
+[davibarbosadev.com](https://davibarbosadev.com) · davibarbosa019@gmail.com
